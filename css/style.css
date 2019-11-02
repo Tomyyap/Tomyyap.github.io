@@ -1,0 +1,42 @@
+.jumbotron img{
+border:   5px solid black;
+}
+footer{
+	background-color: #333;
+	min-height: 30px; 
+}
+footer p{
+	color: white;
+}
+.jumbotron{
+	background-image: url("10.jpg");
+	background-size: 100%, 100%;
+}
+.jumbotron h1{
+	font-size: 45px;
+	color: black;
+	text-shadow: 5px 2px 4px #ffffff;
+}
+.jumbotron p{
+	color: white;
+	size: 100px;
+}
+.border{
+	display: block;
+	margin: auto;
+	width: 150px;
+	height: 5px;
+	background: #000000;
+	margin-bottom: 15px;
+}
+.container1{
+	background-color: yellow;
+}
+
+.container2{
+	background-color: grey;
+}
+
+.container3{
+	background-color: grey;
+}
